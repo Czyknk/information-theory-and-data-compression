@@ -1,4 +1,4 @@
-# Information-Theory-and-Data-Compression
+# Information Theory and Data Compression
 The `information-theory-and-data-compression` repository contains a collection of projects completed during the TIMKOD course at Poznan University of Technology. The goal of these projects was to explore natural language approximation and implement lossless data compression algorithms.
 
 ## 🛠️ Technologies & Concepts Used
